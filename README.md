@@ -24,6 +24,12 @@ StudyMate AI combines an AI tutor with practical study tools in one focused work
 3. **Privacy by design** — minimise unnecessary collection of student data.
 4. **Accessible learning** — optimise for phones, low-bandwidth environments, and practical student workflows.
 
+## A simple learning cycle
+
+**Plan → Learn → Practise → Review → Reflect**
+
+StudyMate AI is intended to help students move through this cycle consistently, using revision planning, guided explanations, quizzes, and progress insights.
+
 ## Planned stack
 
 - Next.js + TypeScript
